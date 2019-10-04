@@ -1,5 +1,6 @@
 GEM
   remote: https://rubygems.org/
+  remote: https://rails-assets.org/
   specs:
     actionpack (5.0.7.2)
       actionview (= 5.0.7.2)
@@ -126,6 +127,9 @@ GEM
     rack (2.0.7)
     rack-test (0.6.3)
       rack (>= 1.0)
+    rails-assets-jquery (3.4.1)
+    rails-assets-modernizr (3.7.1)
+    rails-assets-popper.js (1.15.0)
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
@@ -181,6 +185,9 @@ DEPENDENCIES
   middleman-deploy (~> 2.0.0.pre.alpha)
   middleman-syntax (~> 3.0)
   nokogiri (~> 1.8, >= 1.8.2)
+  rails-assets-jquery!
+  rails-assets-modernizr!
+  rails-assets-popper.js!
   redcarpet (~> 3.4)
   tzinfo-data
   wdm (~> 0.1)
