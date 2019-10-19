@@ -2,27 +2,31 @@
 title: PaüSiber - Güz Yarıyılı Planı - 2019
 ---
 
+---
+
 #### Eğitmenlerimiz
 Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir. Emeklerinden dolayı hepsine teşekkür ederiz.  
 
-**Herkes için GNU/Linux**,  
-Bora Tanrıkulu, Hasan Tezcan ve Emrullah Cirit  
-**Önyüz Programcılığa Giriş**,  
-Aykut Şahinler, Hazal Sıla Yaprak  
-**Güvenlik Eğitimi Serisi**,  
-Alp Eren Işık
+Herkes için GNU/Linux,  
+**`Bora Tanrıkulu`**, **`Hasan Tezcan`**, **`Emrullah Cirit`**  
+Önyüz Programcılığa Giriş,  
+**`Aykut Şahinler`**, **`Hazal Sıla Yaprak`**  
+Güvenlik Eğitimi Serisi,  
+**`Alp Eren Işık`**
 
 ---
 
 #### Fakülte Sınav Tarihleri  
 Mühendislik Fakültesi, güz yarıyılı sınav tarihleri aşağıdaki gibidir. Planlarımızı bu tarihlere göre yapıyoruz.  
 
-Ara sınavların yapılması, 02.11.2019 - 10.11.2019  
-Dönem Sonu sınavların yapılması, 25.12.2019 - 05.01.2020
+Ara sınavların yapılması,  
+**`02.11.2019 - 10.11.2019`**  
+Dönem Sonu sınavların yapılması,  
+**`25.12.2019 - 05.01.2020`**
 
 ---
 
-> **Kısaltmalar**  
+#### Kısaltmalar   
 	**`E:`** Etkinlik  
 	**`F:`** Fotoğraf  
 	**`D:`** Doküman  
