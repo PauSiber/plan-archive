@@ -30,7 +30,7 @@ Dönem Sonu sınavların yapılması,
 	**`E:`** Etkinlik  
 	**`F:`** Fotoğraf  
 	**`D:`** Doküman  
-	**`U:`** Uygulama
+	**`U:`** Uygulama  
 	**`UKK:`** Uygulama Kaynak Kodu
 
 | # | Etkinlik | Etkinlik | Etkinlik | Atölye / Konferans | Eğlence |
@@ -42,7 +42,7 @@ Dönem Sonu sınavların yapılması,
 | **Hafta - 4**<br>**`21 Ekim,`<br>`27 Ekim`** | Güvenlik Eğitimi Serisi | Herkes için GNU/Linux | Önyüz Programcılığa Giriş | |
 | **Hafta - 5**<br>**`28 Ekim,`<br>`03 Kasım`** | **Vize Haftası Öncesi** | **x** | **x** | **x** | **x** |
 | **Hafta - 6**<br>**`04 Kasım,`<br>`10 Kasım`** | **Vize Haftası** | **x** | **x** | **x** | **x** |
-| **Hafta - 7**<br>**`11 Kasım,`<br>`17 Kasım`** | Güvenlik Eğitimi Serisi | Herkes için GNU/Linux | Bootstrap<br>**`Aykut Şahinler`** | HTML/CSS ile Obje Çizimi,<br>**`Aykut Şahinler`** |
+| **Hafta - 7**<br>**`11 Kasım,`<br>`17 Kasım`** | Güvenlik Eğitimi Serisi | Herkes için GNU/Linux | Bootstrap<br>**`Murat Can Tanrıverdi`** | HTML/CSS ile Obje Çizimi,<br>**`Aykut Şahinler`** |
 | **Hafta - 8**<br>**`18 Kasım,`<br>`24 Kasım`** | Güvenlik Eğitimi Serisi | Git Nedir ?,<br>Nasıl Kullanılır ?<br>**`Hasan Tezcan`** | Android'e Giriş - I<br>**`?`** | SMTP Nasıl Çalışır ?,<br>Bir Postfix Sunucu Hazırlanması,<br>**`Bora Tanrıkulu`** |
 | **Hafta - 9**<br>**`25 Kasım,`<br>`01 Aralık`** | Güvenlik Eğitimi Serisi | | Android'e Giriş - II<br>**`?`** | Siber Güvenlik Kampı,<br>**`Siber Kulüpler Birliği`** |
 | **Hafta - 10**<br>**`02 Aralık,`<br>`08 Aralık`** | Güvenlik Eğitimi Serisi |  | | Android Dev,<br>**`Turkcell Müh.`<br>`Özgür Sakızlı`** |
