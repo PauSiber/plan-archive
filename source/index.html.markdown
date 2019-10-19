@@ -46,7 +46,7 @@ Dönem Sonu sınavların yapılması,
 | **Hafta - 8**<br>**`18 Kasım,`<br>`24 Kasım`** | Güvenlik Eğitimi Serisi | Git Nedir ?,<br>Nasıl Kullanılır ?<br>**`Hasan Tezcan`** | Android'e Giriş - I<br>**`?`** | |
 | **Hafta - 9**<br>**`25 Kasım,`<br>`01 Aralık`** | Güvenlik Eğitimi Serisi | DNS Nedir ?,<br>Nasıl Çalışır ?<br>**`Bora Tanrıkulu`** | Android'e Giriş - II<br>**`?`** | Siber Güvenlik Kampı,<br>**`Siber Kulüpler Birliği`** |
 | **Hafta - 10**<br>**`02 Aralık,`<br>`08 Aralık`** | Güvenlik Eğitimi Serisi | SMTP Nasıl Çalışır ?,<br>Bir Postfix Sunucu Hazırlanması,<br>**`Bora Tanrıkulu`** | | Android Dev,<br>**`Turkcell Müh.`<br>`Özgür Sakızlı`** |
-| **Hafta - 11**<br>**`09 Aralık,`<br>`15 Aralık`** | Güvenlik Eğitimi Serisi | |  | Saldırı - Savunma Atölyesi,<br>**`Alp Eren Işık`** |
+| **Hafta - 11**<br>**`09 Aralık,`<br>`15 Aralık`** | Saldırı - Savunma Atölyesi,<br>**`Alp Eren Işık`** | |  | |
 | **Hafta - 12**<br>**`16 Aralık,`<br>`22 Aralık`** | **Final Haftası Öncesi** | **x** | **x** | **x** | **x** |
 | **Hafta - 13**<br>**`23 Aralık,`<br>`29 Aralık`** | **Final Haftası** | **x** | **x** | **x** | **x** |
 | **Hafta - 14**<br>**`30 Aralık, 05 Ocak`** | **Final Haftası** | **x** | **x** | **x** | **x** |
