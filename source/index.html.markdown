@@ -38,13 +38,13 @@ Dönem Sonu sınavların yapılması,
 | **Hafta - 1**<br>**`30 Eylül,`<br>`06 Ekim`** | &bull; | &bull; | &bull; | &bull; | &bull; |
 | **Hafta - 2**<br>**`07 Ekim,`<br>`13 Ekim`** | Web Nasıl Çalışır ? | Herkes için GNU/Linux | Önyüz Programcılığa Giriş | "Yapamazsın!",<br>**`Çağatay Çalı`** | Kahvaltı |
 | **Hafta - 3**<br>**`14 Ekim,`<br>`20 Ekim`** | Güvenlik Eğitimi Serisi | Herkes için GNU/Linux | Önyüz Programcılığa Giriş | |
-| **Hafta - 4**<br>**`21 Ekim,`<br>`27 Ekim`** | Güvenlik Eğitimi Serisi | Git Nedir ? Nasıl Kullanılır | Önyüz Programcılığa Giriş | |
+| **Hafta - 4**<br>**`21 Ekim,`<br>`27 Ekim`** | Güvenlik Eğitimi Serisi | Herkes için GNU/Linux | Önyüz Programcılığa Giriş | |
 | **Hafta - 5**<br>**`28 Ekim,`<br>`03 Kasım`** | **Vize Haftası Öncesi** | **x** | **x** | **x** | **x** |
 | **Hafta - 6**<br>**`04 Kasım,`<br>`10 Kasım`** | **Vize Haftası** | **x** | **x** | **x** | **x** |
-| **Hafta - 7**<br>**`11 Kasım,`<br>`17 Kasım`** | Güvenlik Eğitimi Serisi | Herkes için GNU/Linux | Bootstrap | HTML/CSS ile Obje Çizimi,<br>**`Aykut Şahinler`** |
-| **Hafta - 8**<br>**`18 Kasım,`<br>`24 Kasım`** | Güvenlik Eğitimi Serisi | Herkes için GNU/Linux | Android'e Giriş - I | Siber Güvenlik Kampı,<br>**`Siber Kulüpler Birliği`** |
-| **Hafta - 9**<br>**`25 Kasım,`<br>`01 Aralık`** | Güvenlik Eğitimi Serisi | DNS Nedir ?,<br>Nasıl Çalışır ? | Android'e Giriş - II | SMTP Nasıl Çalışır ?,<br>Bir Postfix Sunucu Hazırlanması,<br>**`Bora Tanrıkulu`** |
-| **Hafta - 10**<br>**`02 Aralık,`<br>`08 Aralık`** | Güvenlik Eğitimi Serisi |  | | Android Dev,<br>**`Turkcell Müh. Özgür Sakızlı`**  |
+| **Hafta - 7**<br>**`11 Kasım,`<br>`17 Kasım`** | Güvenlik Eğitimi Serisi | Herkes için GNU/Linux | Bootstrap<br>**`Aykut Şahinler`** | HTML/CSS ile Obje Çizimi,<br>**`Aykut Şahinler`** |
+| **Hafta - 8**<br>**`18 Kasım,`<br>`24 Kasım`** | Güvenlik Eğitimi Serisi | Git Nedir ?,<br>Nasıl Kullanılır ?<br>**`Hasan Tezcan`** | Android'e Giriş - I<br>**`?`** | SMTP Nasıl Çalışır ?,<br>Bir Postfix Sunucu Hazırlanması,<br>**`Bora Tanrıkulu`** |
+| **Hafta - 9**<br>**`25 Kasım,`<br>`01 Aralık`** | Güvenlik Eğitimi Serisi | DNS Nedir ?,<br>Nasıl Çalışır ?<br>**`Bora Tanrıkulu`** | Android'e Giriş - II<br>**`?`** | Siber Güvenlik Kampı,<br>**`Siber Kulüpler Birliği`** |
+| **Hafta - 10**<br>**`02 Aralık,`<br>`08 Aralık`** | Güvenlik Eğitimi Serisi |  | | Android Dev,<br>**`Turkcell Müh.`<br>`Özgür Sakızlı`** |
 | **Hafta - 11**<br>**`09 Aralık,`<br>`15 Aralık`** | Güvenlik Eğitimi Serisi | |  | Saldırı - Savunma Atölyesi,<br>**`Alp Eren Işık`** |
 | **Hafta - 12**<br>**`16 Aralık,`<br>`22 Aralık`** | **Final Haftası Öncesi** | **x** | **x** | **x** | **x** |
 | **Hafta - 13**<br>**`23 Aralık,`<br>`29 Aralık`** | **Final Haftası** | **x** | **x** | **x** | **x** |
