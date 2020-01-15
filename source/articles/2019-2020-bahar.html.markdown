@@ -32,7 +32,7 @@ Dönem Sonu sınavların yapılması,
 	**`U:`** Uygulama  
 	**`UKK:`** Uygulama Kaynak Kodu
 
-<!-- Don't delete that indentation -->
+
 	<div align="center">
 
 
