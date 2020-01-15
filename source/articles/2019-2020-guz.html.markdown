@@ -37,6 +37,9 @@ Dönem Sonu sınavların yapılması,
 	**`U:`** Uygulama  
 	**`UKK:`** Uygulama Kaynak Kodu
 
+	<!-- Don't delete that indentation -->
+		<div align="center">
+
 | # | Etkinlik | Etkinlik | Etkinlik | Atölye / Konferans | Eğlence |
 |:-:|:--------:|:--------:|:--------:|:------:|:-------:|
 | **Hafta - 0**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | **Tanışma**<br>[**`[E]`**](https://kommunity.com/pausiber/events/pausiber-tanisma-etkinligi) [**`[F1]`**](https://www.instagram.com/p/B2304mJAXT8/) [**`[F2]`**](https://www.instagram.com/p/B3B0NBLApCt/) [**`[F3]`**](https://kommunity.com/pausiber/events/pausiber-tanisma-etkinligi/photos) |
@@ -54,3 +57,5 @@ Dönem Sonu sınavların yapılması,
 | **Hafta - 12**<br>**`16 Aralık,`<br>`22 Aralık`** | HTML/CSS ile Logo Çizimi<br><br>**`Aykut Şahinler`**<br>**`22.12.2019`**<br>**`Pazar`**<br>**`HackerSpace`**<br>**`18.00 - 20.00`** | **x** | **x** | **x** | **x** |
 | **Hafta - 13**<br>**`23 Aralık,`<br>`29 Aralık`** | **Final Haftası** | **x** | **x** | **x** | **x** |
 | **Hafta - 14**<br>**`30 Aralık, 05 Ocak`** | **Final Haftası** | **x** | **x** | **x** | **x** |
+
+</div>
