@@ -1,0 +1,50 @@
+---
+title: 2019-2020 - Bahar Yarıyılı Planı
+date: 2020-02-11
+---
+
+
+<h1 align="center">2019-2020 Bahar Yarıyılı Planımız</h1>
+<br>
+
+#### Eğitmenlerimiz
+Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir. Emeklerinden dolayı hepsine teşekkür ederiz.  
+
+...,  
+**`...`**, **`...`**
+
+---
+
+#### Fakülte Sınav Tarihleri  
+Mühendislik Fakültesi, güz yarıyılı sınav tarihleri aşağıdaki gibidir. Planlarımızı bu tarihlere göre yapıyoruz.  
+
+Ara sınavların yapılması,  
+**` ? - ?`**  
+Dönem Sonu sınavların yapılması,  
+**` ? - ?`**
+
+---
+
+#### Kısaltmalar   
+	**`E:`** Etkinlik  
+	**`F:`** Fotoğraf  
+	**`D:`** Doküman  
+	**`U:`** Uygulama  
+	**`UKK:`** Uygulama Kaynak Kodu
+
+<!-- Don't delete that indentation -->
+	<div align="center">
+
+
+| # | Etkinlik | Etkinlik | Etkinlik | Atölye / Konferans | Eğlence |
+|:-:|:--------:|:--------:|:--------:|:------:|:-------:|
+| **Hafta - 0**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 1**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 2**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 3**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 4**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 5**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 6**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 7**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+
+</div>
