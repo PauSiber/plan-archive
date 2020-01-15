@@ -12,9 +12,11 @@ Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir
 Herkes için GNU/Linux,  
 **`Bora Tanrıkulu`**, **`Hasan Tezcan`**, **`Emrullah Cirit`**  
 Önyüz Programcılığa Giriş,  
-**`Aykut Şahinler`**, **`Hazal Sıla Yaprak`**  
+**`Aykut Şahinler`**, **`Hazal Sıla Yaprak`**, **`Murat Can Tanrıverdi`**  
 Güvenlik Eğitimi Serisi,  
-**`Alp Eren Işık`**
+**`Alp Eren Işık`**  
+Android Eğitimi Serisi,  
+**`Feyza Eda Türk`**
 
 ---
 
