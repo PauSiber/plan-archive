@@ -1,0 +1,48 @@
+---
+title: 2019-2020 - Bahar Yarıyılı Planı
+date: 2020-02-11
+---
+
+
+<h1 align="center">2019-2020 Bahar Yarıyılı Planımız</h1>
+<br>
+
+#### Eğitmenlerimiz
+Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir. Emeklerinden dolayı hepsine teşekkür ederiz.  
+
+Herkes için GNU/Linux,  
+**`Bora Tanrıkulu`**, **`Hasan Tezcan`**, **`Emrullah Cirit`**  
+Önyüz Programcılığa Giriş,  
+**`Aykut Şahinler`**, **`Hazal Sıla Yaprak`**  
+Güvenlik Eğitimi Serisi,  
+**`Alp Eren Işık`**
+
+---
+
+#### Fakülte Sınav Tarihleri  
+Mühendislik Fakültesi, güz yarıyılı sınav tarihleri aşağıdaki gibidir. Planlarımızı bu tarihlere göre yapıyoruz.  
+
+Ara sınavların yapılması,  
+**`02.11.2019 - 10.11.2019`**  
+Dönem Sonu sınavların yapılması,  
+**`25.12.2019 - 05.01.2020`**
+
+---
+
+#### Kısaltmalar   
+	**`E:`** Etkinlik  
+	**`F:`** Fotoğraf  
+	**`D:`** Doküman  
+	**`U:`** Uygulama  
+	**`UKK:`** Uygulama Kaynak Kodu
+
+| # | Etkinlik | Etkinlik | Etkinlik | Atölye / Konferans | Eğlence |
+|:-:|:--------:|:--------:|:--------:|:------:|:-------:|
+| **Hafta - 0**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 1**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 2**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 3**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 4**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 5**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 6**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 7**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
