@@ -10,12 +10,8 @@ date: 2020-02-11
 #### Eğitmenlerimiz
 Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir. Emeklerinden dolayı hepsine teşekkür ederiz.  
 
-Herkes için GNU/Linux,  
-**`Bora Tanrıkulu`**, **`Hasan Tezcan`**, **`Emrullah Cirit`**  
-Önyüz Programcılığa Giriş,  
-**`Aykut Şahinler`**, **`Hazal Sıla Yaprak`**  
-Güvenlik Eğitimi Serisi,  
-**`Alp Eren Işık`**
+...,  
+**`...`**, **`...`**
 
 ---
 
@@ -23,9 +19,9 @@ Güvenlik Eğitimi Serisi,
 Mühendislik Fakültesi, güz yarıyılı sınav tarihleri aşağıdaki gibidir. Planlarımızı bu tarihlere göre yapıyoruz.  
 
 Ara sınavların yapılması,  
-**`02.11.2019 - 10.11.2019`**  
+**` ? - ?`**  
 Dönem Sonu sınavların yapılması,  
-**`25.12.2019 - 05.01.2020`**
+**` ? - ?`**
 
 ---
 
@@ -36,13 +32,19 @@ Dönem Sonu sınavların yapılması,
 	**`U:`** Uygulama  
 	**`UKK:`** Uygulama Kaynak Kodu
 
+<!-- Don't delete that indentation -->
+	<div align="center">
+
+
 | # | Etkinlik | Etkinlik | Etkinlik | Atölye / Konferans | Eğlence |
 |:-:|:--------:|:--------:|:--------:|:------:|:-------:|
-| **Hafta - 0**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 1**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 2**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 3**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 4**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 5**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 6**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 7**<br>**`23 Eylül,`<br>`29 Eylül`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 0**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 1**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 2**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 3**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 4**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 5**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 6**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 7**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+
+</div>
