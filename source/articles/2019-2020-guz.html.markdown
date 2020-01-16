@@ -12,7 +12,7 @@ Herkes için GNU/Linux,
 Önyüz Programcılığa Giriş,  
 **`Aykut Şahinler`**, **`Hazal Sıla Yaprak`**, **`Murat Can Tanrıverdi`**  
 Güvenlik Eğitimi Serisi,  
-**`Alp Eren Işık`**
+**`Alp Eren Işık`**  
 Android Eğitim Serisi,  
 **`Feyza Eda Türk`**
 
