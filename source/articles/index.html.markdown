@@ -10,9 +10,12 @@ Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir
 Herkes için GNU/Linux,  
 **`Bora Tanrıkulu`**, **`Hasan Tezcan`**, **`Emrullah Cirit`**  
 Önyüz Programcılığa Giriş,  
-**`Aykut Şahinler`**, **`Hazal Sıla Yaprak`**  
+**`Aykut Şahinler`**, **`Hazal Sıla Yaprak`**, **`Murat Can Tanrıverdi`**  
 Güvenlik Eğitimi Serisi,  
 **`Alp Eren Işık`**
+Android Eğitim Serisi,  
+**`Feyza Eda Türk`**
+
 
 ---
 
@@ -47,6 +50,6 @@ Dönem Sonu sınavların yapılması,
 | **Hafta - 9**<br>**`25 Kasım,`<br>`01 Aralık`** | Android'e Giriş - II<br>**`26.11.2019`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | Güvenlik Eğitimi Serisi<br>**`27.11.2019`**<br>**`Çarşamba`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | DNS Nedir ?,<br>Nasıl Çalışır ?<br>**`Bora Tanrıkulu`**<br>**`28.11.2019`**<br>[**`[E]`**](https://kommunity.com/pausiber/events/dns-nedir-nasil-calisir) [**`[F]`**](https://pbs.twimg.com/media/EMoDYglXYAAVZ5P?format=jpg&name=4096x4096) [**`[D]`**](https://boratanrikulu.dev/dns-nedir-nasil-calisir/) | Siber Güvenlik Kampı<br>**`Savunma Sanayi Başkanlığı & Siber Kulüpler Birliği`**<br>**`30 Kasım - 01 Aralık`**<br>[**`[F]`**](https://www.instagram.com/p/B5iYNsfg-43/) |
 | **Hafta - 10**<br>**`02 Aralık,`<br>`08 Aralık`** | | SMTP Nasıl Çalışır ?,<br>Bir Postfix Sunucu Hazırlanması,<br>**`Bora Tanrıkulu`**<br>**`05.12.2019`**<br>[**`[E]`**](https://kommunity.com/pausiber/events/smtp-nasil-calisir-ve-bir-e-posta-sunucusu-hazirlamak) [**`[F1]`**](https://pbs.twimg.com/media/ELCo79EXUAAvNuw?format=jpg&name=large) [**`[F2]`**](https://pbs.twimg.com/media/ELCo8aAWsAcM9MN?format=jpg&name=large) [**`[D]`**](https://boratanrikulu.dev/smtp-nasil-calisir-ve-postfix-kurulumu/) | | Android Dev,<br>**`Turkcell Müh.`<br>`Özgür Sakızlı`**<br>**`07 - 08 Aralık`**<br>[**`[E]`**](https://kommunity.com/pausiber/events/android-dev) [**`[F1]`**](https://pbs.twimg.com/media/ELWvcbWWkAQvBwH?format=jpg&name=small) [**`[F2]`**](https://twitter.com/SiberPau/status/1203679794984083457/photo/1) [**`[UKK]`**](https://github.com/ozgursakizli/MuList) |
 | **Hafta - 11**<br>**`09 Aralık,`<br>`15 Aralık`** | | |  | |
-| **Hafta - 12**<br>**`16 Aralık,`<br>`22 Aralık`** | HTML/CSS ile Logo Çizimi<br><br>**`Aykut Şahinler`**<br>**`22.12.2019`**<br>[**`[F1]`**](https://pbs.twimg.com/media/EMZzcKaWwAApIg5?format=jpg&name=4096x4096) [**`[F2]`**](https://pbs.twimg.com/media/EMZzcKbXYAAAaoj?format=jpg&name=large) [**`[UKK1]`**](https://codepen.io/aykutsahinler/pen/mdymOXR) [**`[UKK2]`**](https://codepen.io/aykutsahinler/pen/BayKEvM) | **x** | **x** | **x** | **x** |
+| **Hafta - 12**<br>**`16 Aralık,`<br>`22 Aralık`** | HTML/CSS ile Logo Çizimi<br><br>**`Aykut Şahinler`**<br>**`22.12.2019`**<br>[**`[F1]`**](https://pbs.twimg.com/media/EMZzcKaWwAApIg5?format=jpg&name=4096x4096) [**`[F2]`**](https://pbs.twimg.com/media/EMZzcKbXYAAAaoj?format=jpg&name=larg) [**`[UKK1]`**](https://codepen.io/aykutsahinler/pen/mdymOXR) [**`[UKK2]`**](https://codepen.io/aykutsahinler/pen/BayKEvM) | **x** | **x** | **x** | **x** |
 | **Hafta - 13**<br>**`23 Aralık,`<br>`29 Aralık`** | **Final Haftası** | **x** | **x** | **x** | **x** |
 | **Hafta - 14**<br>**`30 Aralık, 05 Ocak`** | **Final Haftası** | **x** | **x** | **x** | **x** |
