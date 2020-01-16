@@ -1,15 +1,11 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
 
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
-    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
-    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
-    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
 }
-
 
 a {
   color: rgba(#000, 0.7);
@@ -65,4 +61,12 @@ html {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+}
+
+.term {
+  font-size: 20px;
+}
+
+.bebas {
+  font-family: 'Bebas Neue', cursive;
 }

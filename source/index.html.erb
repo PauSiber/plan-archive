@@ -1,0 +1,29 @@
+<main>
+  <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+    <a href="https://pausiber.xyz/">
+      <img src="/images/logo.png" alt="pausiber-logo" class="navbar-brand align-middle" width="50%">
+    </a>
+    <hr>
+    <h1 class="bebas display-4">PauSiber Plan</h1>
+    <p class="lead text-left">
+      Bizler, PaüSiber ekibi olarak, öğrenmeyi, üretmeyi ve paylaşmayı kendine amaç edinmiş insanlarız.
+      Bu amaçla yıl içersinde birçok eğitim ve etkinlik düzenleyeceğiz.
+    </p>
+    <p class="lead text-left">
+      Yapacağımız etkinlik planlarımızı herkese açık şekilde bu site üzerinden yayınlıyor olacağız.
+      Bunu bizim akıl haritamız gibi düşünebilirsiniz. Yapmayı düşündüğümüz etkinlikler burada yazılı olacak.
+    </p>
+  </div>
+
+  <hr>
+  <h3 class="pricing-header mx-auto bold ">Dönemlere göre planlarımız:</h1>
+  <div class="term pricing-header px-3 py-1 pb-md-4 mx-auto text-center">
+    <% blog.articles.reverse.each do |article| %>
+      <% link_to article do %>
+        <li class="text-left">
+          <%= article.title %>
+        </li>
+      <% end %>
+    <% end %>
+  </div>
+</main>
