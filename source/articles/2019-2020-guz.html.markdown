@@ -1,8 +1,10 @@
 ---
-title: PaüSiber - Güz Yarıyılı Planı - 2019
+title: 2019-2020 - Güz Yarıyılı Planı
+date: 2019-09-11
 ---
 
----
+<h1 align="center">2019-2020 Güz Yarıyılı Planımız</h1>
+<br>
 
 #### Eğitmenlerimiz
 Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir. Emeklerinden dolayı hepsine teşekkür ederiz.  
