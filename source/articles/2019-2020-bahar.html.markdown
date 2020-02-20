@@ -9,8 +9,28 @@ date: 2020-01-15
 #### Eğitmenlerimiz
 Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir. Emeklerinden dolayı hepsine teşekkür ederiz.  
 
-...,  
-**`...`**, **`...`**
+Flutter,
+**`Onur Özbay`**, **`Murat Can Tanrıverdi`** </br><br>
+React-Native,
+**`Beyza Kaynar`**, **`Batın Eryılmaz`**</br><br>
+NodeJS,
+**`Çağatay Çalı`**</br><br>
+A-Frame,
+**`Batın Eryılmaz`**</br><br>
+Wifi Hacking,
+**`Bora Tanrıkulu`**, **`Alperen Işık`**</br><br>
+VueJS,
+**`Hazal Sıla Yaprak`**</br><br>
+Python,
+**`Mehmet Rahmi Yüceöz`**, **`Emrullah Cirit`**</br><br>
+Bilişim Hukuku,
+**`Hasan Tezcan`**
+
+
+
+
+
+
 
 ---
 
@@ -18,9 +38,9 @@ Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir
 Mühendislik Fakültesi, güz yarıyılı sınav tarihleri aşağıdaki gibidir. Planlarımızı bu tarihlere göre yapıyoruz.  
 
 Ara sınavların yapılması,  
-**` ? - ?`**  
+**` 21.03.2020 - 29.03.2020 `**  
 Dönem Sonu sınavların yapılması,  
-**` ? - ?`**
+**` 16.05.2020 - 31.05.2020 `**
 
 ---
 
@@ -37,13 +57,13 @@ Dönem Sonu sınavların yapılması,
 
 | # | Etkinlik | Etkinlik | Etkinlik | Atölye / Konferans | Eğlence |
 |:-:|:--------:|:--------:|:--------:|:------:|:-------:|
-| **Hafta - 0**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 1**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 2**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 3**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 4**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 5**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 6**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 7**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 0**<br>**`?,`<br>`?`** | Python<br>**'05.02.2020'**<br>**`Mehmet`**<br> **`Emrullah`** | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 1**<br>**`?,`<br>`?`** | Python<br>**'12.02.2020'**<br>**`Mehmet`**<br> **`Emrullah`** | Flutter<br>**'06.02.2020'**<br>**`Onur`**<br>**`Murat`**<br> **`Feyza`** | &bull; | &bull; | &bull; |
+| **Hafta - 2**<br>**`?,`<br>`?`** | &bull; | Flutter<br>**'10.02.2020'**<br>**`Onur`**<br>**`Murat`**<br> **`Feyza`** | &bull; | NodeJS<br>**''**<br>**`Çağatay`** | &bull; |
+| **Hafta - 3**<br>**`?,`<br>`?`** | A-Frame<br>**''**<br>**`Batın`** | Flutter<br>**'17.02.2020'**<br>**`Onur`**<br>**`Murat`**<br> **`Feyza`** | &bull; | &bull; | &bull; |
+| **Hafta - 4**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | Wifi Hacking<br>**''**<br>**`Bora`**<br> **`Alperen`** | &bull; |
+| **Hafta - 5**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | VueJS<br>**''**<br>**`Hazal`** | &bull; |
+| **Hafta - 6**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | React-Native<br>**''**<br>**`Batın`**<br>**`Beyza`**<br> | &bull; |
+| **Hafta - 7**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | Bilişim Hukuku<br>**''**<br>**`Hasan`** | &bull; |
 
 </div>
