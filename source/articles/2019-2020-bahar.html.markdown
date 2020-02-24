@@ -4,43 +4,39 @@ date: 2020-01-15
 ---
 
 <h1 align="center">2019-2020 Bahar Yarıyılı Planımız</h1>
-<br>
+<hr>
 
 #### Eğitmenlerimiz
 Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir. Emeklerinden dolayı hepsine teşekkür ederiz.  
 
-Flutter,
-**`Onur Özbay`**, **`Murat Can Tanrıverdi`** </br><br>
-React-Native,
-**`Beyza Kaynar`**, **`Batın Eryılmaz`**</br><br>
-NodeJS,
-**`Çağatay Çalı`**</br><br>
-A-Frame,
-**`Batın Eryılmaz`**</br><br>
-Wifi Hacking,
-**`Bora Tanrıkulu`**, **`Alperen Işık`**</br><br>
-VueJS,
-**`Hazal Sıla Yaprak`**</br><br>
-Python,
-**`Mehmet Rahmi Yüceöz`**, **`Emrullah Cirit`**</br><br>
-Bilişim Hukuku,
+Flutter ile Mobil Uygulama Geliştirme,  
+**`Onur Özbay`**, **`Murat Can Tanrıverdi`**  
+Python 101,  
+**`Mehmet Rahmi Yüceöz`**, **`Emrullah Cirit`**  
+
+### taşınacaks
+React-Native ile Mobil Uygulama Geliştirme,  
+**`Beyza Kaynar`**, **`Batın Eryılmaz`**  
+VueJS,  
+**`Hazal Sıla Yaprak`**  
+NodeJS,  
+**`Çağatay Çalı`**  
+A-Frame,  
+**`Batın Eryılmaz`**  
+Kablosuz Ağ Güvenliği,  
+**`Bora Tanrıkulu`**, **`Alperen Işık`**  
+Bilişim Hukuku,  
 **`Hasan Tezcan`**
-
-
-
-
-
-
 
 ---
 
 #### Fakülte Sınav Tarihleri  
-Mühendislik Fakültesi, güz yarıyılı sınav tarihleri aşağıdaki gibidir. Planlarımızı bu tarihlere göre yapıyoruz.  
+Mühendislik Fakültesi, bahar yarıyılı sınav tarihleri aşağıdaki gibidir. Planlarımızı bu tarihlere göre yapıyoruz.  
 
 Ara sınavların yapılması,  
-**` 21.03.2020 - 29.03.2020 `**  
+**`21.03.2020 - 29.03.2020`**  
 Dönem Sonu sınavların yapılması,  
-**` 16.05.2020 - 31.05.2020 `**
+**`16.05.2020 - 31.05.2020`**
 
 ---
 
@@ -51,19 +47,20 @@ Dönem Sonu sınavların yapılması,
 	**`U:`** Uygulama  
 	**`UKK:`** Uygulama Kaynak Kodu
 
-
-	<div align="center">
-
-
 | # | Etkinlik | Etkinlik | Etkinlik | Atölye / Konferans | Eğlence |
 |:-:|:--------:|:--------:|:--------:|:------:|:-------:|
-| **Hafta - 0**<br>**`?,`<br>`?`** | Python<br>**'05.02.2020'**<br>**`Mehmet`**<br> **`Emrullah`** | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 1**<br>**`?,`<br>`?`** | Python<br>**'12.02.2020'**<br>**`Mehmet`**<br> **`Emrullah`** | Flutter<br>**'06.02.2020'**<br>**`Onur`**<br>**`Murat`**<br> **`Feyza`** | &bull; | &bull; | &bull; |
-| **Hafta - 2**<br>**`?,`<br>`?`** | &bull; | Flutter<br>**'10.02.2020'**<br>**`Onur`**<br>**`Murat`**<br> **`Feyza`** | &bull; | NodeJS<br>**''**<br>**`Çağatay`** | &bull; |
-| **Hafta - 3**<br>**`?,`<br>`?`** | A-Frame<br>**''**<br>**`Batın`** | Flutter<br>**'17.02.2020'**<br>**`Onur`**<br>**`Murat`**<br> **`Feyza`** | &bull; | &bull; | &bull; |
-| **Hafta - 4**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | Wifi Hacking<br>**''**<br>**`Bora`**<br> **`Alperen`** | &bull; |
-| **Hafta - 5**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | VueJS<br>**''**<br>**`Hazal`** | &bull; |
-| **Hafta - 6**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | React-Native<br>**''**<br>**`Batın`**<br>**`Beyza`**<br> | &bull; |
-| **Hafta - 7**<br>**`?,`<br>`?`** | &bull; | &bull; | &bull; | Bilişim Hukuku<br>**''**<br>**`Hasan`** | &bull; |
-
-</div>
+| **Hafta - 0**<br>**`17 Eylül,`<br>`23 Eylül`** | &bull; | &bull; | &bull; | &bull; | Mangal<br>**`23.02.2020`**<br>**`Pazar`**<br>**`Çamlık Parkı`**<br>**`14.00 - 18.00`**<br>[**`[F]`**](https://www.instagram.com/p/B860dianLT9/) |
+| **Hafta - 1**<br>**`24 Eylül,`<br>`1 Mart`** | Flutter ile Mobil Uygulama Geliştirme<br>**`25.02.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`**<br>[**`[E]`**](https://kommunity.com/pausiber/events/flutter-ile-mobil-programlama) | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`**<br>[**`[E]`**](https://kommunity.com/pausiber/events/python101)  | &bull; | &bull; | &bull; |
+| **Hafta - 2**<br>**`2 Mart,`<br>`8`** | Flutter ile Mobil Uygulama Geliştirme<br>**`25.02.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | &bull; | &bull; | &bull; |
+| **Hafta - 3**<br>**`9 Mart,`<br>`15 Mart`** | Flutter ile Mobil Uygulama Geliştirme<br>**`03.03.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | &bull; | NodeJS<br>**`?`**<br>**`Çağatay Çalı`** | &bull; |
+| **Hafta - 4**<br>**`16 Mart,`<br>`22 Mart`** | **Vize Haftası Öncesi** | **x** | **x** | **x** | **x** |
+| **Hafta - 5**<br>**`23 Mart,`<br>`29 Mart`** | **Vize Haftası** | **x** | **x** | **x** | **x** |
+| **Hafta - 6**<br>**`30 Mart,`<br>`05 Nisan`** | Flutter ile Mobil Uygulama Geliştirme<br>**`10.03.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | &bull; | &bull; | A-Frame<br>**`?`**<br>**`Batın Eryılmaz`** | &bull; |
+| **Hafta - 7**<br>**`06 Nisan,`<br>`12 Nisan`** | &bull; | &bull; | &bull; | Kablosuz Ağ Güvenliği<br>**`?`**<br>**`Bora Tanrıkulu`**<br>**`Alp Eren Işık`** | &bull; |
+| **Hafta - 8**<br>**`13 Nisan,`<br>`19 Nisan`** | &bull; | &bull; | &bull; | VueJS<br>**`?`**<br>**`Hazal Sıla Yaprak`** | &bull; |
+| **Hafta - 9**<br>**`20 Nisan,`<br>`26 Nisan`** | &bull; | &bull; | &bull; | React-Native ile Mobil Uygulama Geliştirme<br>**`?`**<br>**`Beyza Kaynar`**<br>**`Batın Eryılmaz`** | &bull; |
+| **Hafta - 10**<br>**`27 Nisan,`<br>`03 Mayıs`** | &bull; | &bull; | &bull; | Bilişim Hukuku<br>**`?`**<br>**`Hasan Tezcan`** | &bull; |
+| **Hafta - 11**<br>**`04 Mayıs,`<br>`10 Mayıs`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 12**<br>**`11 Mayıs,`<br>`17 Mayıs`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 11**<br>**`18 Mayıs,`<br>`24 Mayıs`** | **Final Haftası** | **x** | **x** | **x** | **x** |
+| **Hafta - 12**<br>**`25 Mayıs,`<br>`31 Mayıs`** | **Final Haftası** | **x** | **x** | **x** | **x** |
