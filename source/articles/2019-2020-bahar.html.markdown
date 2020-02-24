@@ -14,20 +14,6 @@ Flutter ile Mobil Uygulama Geliştirme,
 Python 101,  
 **`Mehmet Rahmi Yüceöz`**, **`Emrullah Cirit`**  
 
-### taşınacaks
-React-Native ile Mobil Uygulama Geliştirme,  
-**`Beyza Kaynar`**, **`Batın Eryılmaz`**  
-VueJS,  
-**`Hazal Sıla Yaprak`**  
-NodeJS,  
-**`Çağatay Çalı`**  
-A-Frame,  
-**`Batın Eryılmaz`**  
-Kablosuz Ağ Güvenliği,  
-**`Bora Tanrıkulu`**, **`Alperen Işık`**  
-Bilişim Hukuku,  
-**`Hasan Tezcan`**
-
 ---
 
 #### Fakülte Sınav Tarihleri  
