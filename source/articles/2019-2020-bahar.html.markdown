@@ -51,7 +51,7 @@ Dönem Sonu sınavların yapılması,
 |:-:|:--------:|:--------:|:--------:|:------:|:-------:|
 | **Hafta - 0**<br>**`17 Eylül,`<br>`23 Eylül`** | &bull; | &bull; | &bull; | &bull; | Mangal<br>**`23.02.2020`**<br>**`Pazar`**<br>**`Çamlık Parkı`**<br>**`14.00 - 18.00`**<br>[**`[F]`**](https://www.instagram.com/p/B860dianLT9/) |
 | **Hafta - 1**<br>**`24 Eylül,`<br>`1 Mart`** | Flutter ile Mobil Uygulama Geliştirme<br>**`25.02.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`**<br>[**`[E]`**](https://kommunity.com/pausiber/events/flutter-ile-mobil-programlama) | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`**<br>[**`[E]`**](https://kommunity.com/pausiber/events/python101)  | &bull; | &bull; | &bull; |
-| **Hafta - 2**<br>**`2 Mart,`<br>`8`** | Flutter ile Mobil Uygulama Geliştirme<br>**`25.02.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | &bull; | &bull; | &bull; |
+| **Hafta - 2**<br>**`2 Mart,`<br>`8 Mart`** | Flutter ile Mobil Uygulama Geliştirme<br>**`25.02.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | &bull; | &bull; | &bull; |
 | **Hafta - 3**<br>**`9 Mart,`<br>`15 Mart`** | Flutter ile Mobil Uygulama Geliştirme<br>**`03.03.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | &bull; | NodeJS<br>**`?`**<br>**`Çağatay Çalı`** | &bull; |
 | **Hafta - 4**<br>**`16 Mart,`<br>`22 Mart`** | **Vize Haftası Öncesi** | **x** | **x** | **x** | **x** |
 | **Hafta - 5**<br>**`23 Mart,`<br>`29 Mart`** | **Vize Haftası** | **x** | **x** | **x** | **x** |
@@ -62,5 +62,5 @@ Dönem Sonu sınavların yapılması,
 | **Hafta - 10**<br>**`27 Nisan,`<br>`03 Mayıs`** | &bull; | &bull; | &bull; | Bilişim Hukuku<br>**`?`**<br>**`Hasan Tezcan`** | &bull; |
 | **Hafta - 11**<br>**`04 Mayıs,`<br>`10 Mayıs`** | &bull; | &bull; | &bull; | &bull; | &bull; |
 | **Hafta - 12**<br>**`11 Mayıs,`<br>`17 Mayıs`** | &bull; | &bull; | &bull; | &bull; | &bull; |
-| **Hafta - 11**<br>**`18 Mayıs,`<br>`24 Mayıs`** | **Final Haftası** | **x** | **x** | **x** | **x** |
-| **Hafta - 12**<br>**`25 Mayıs,`<br>`31 Mayıs`** | **Final Haftası** | **x** | **x** | **x** | **x** |
+| **Hafta - 13**<br>**`18 Mayıs,`<br>`24 Mayıs`** | **Final Haftası** | **x** | **x** | **x** | **x** |
+| **Hafta - 14**<br>**`25 Mayıs,`<br>`31 Mayıs`** | **Final Haftası** | **x** | **x** | **x** | **x** |
