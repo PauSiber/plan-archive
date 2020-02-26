@@ -10,7 +10,7 @@ date: 2020-01-15
 Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir. Emeklerinden dolayı hepsine teşekkür ederiz.  
 
 Flutter ile Mobil Uygulama Geliştirme,  
-**`Onur Özbay`**, **`Murat Can Tanrıverdi`**  
+**`Onur Özbay`**, **`Murat Can Tanrıverdi`**, **`Feyza Eda Türk`**  
 Python 101,  
 **`Mehmet Rahmi Yüceöz`**, **`Emrullah Cirit`**  
 
@@ -35,7 +35,7 @@ Dönem Sonu sınavların yapılması,
 
 | # | Etkinlik | Etkinlik | Etkinlik | Atölye / Konferans | Eğlence |
 |:-:|:--------:|:--------:|:--------:|:------:|:-------:|
-| **Hafta - 0**<br>**`17 Eylül,`<br>`23 Eylül`** | &bull; | &bull; | &bull; | &bull; | Mangal<br>**`23.02.2020`**<br>**`Pazar`**<br>**`Çamlık Parkı`**<br>**`14.00 - 18.00`**<br>[**`[F]`**](https://www.instagram.com/p/B860dianLT9/) |
+| **Hafta - 0**<br>**`17 Şubat,`<br>`23 Şubat`** | &bull; | &bull; | &bull; | &bull; | Mangal<br>**`23.02.2020`**<br>**`Pazar`**<br>**`Çamlık Parkı`**<br>**`14.00 - 18.00`**<br>[**`[F]`**](https://www.instagram.com/p/B860dianLT9/) |
 | **Hafta - 1**<br>**`24 Eylül,`<br>`1 Mart`** | Flutter ile Mobil Uygulama Geliştirme<br>**`25.02.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`**<br>[**`[E]`**](https://kommunity.com/pausiber/events/flutter-ile-mobil-programlama) | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`**<br>[**`[E]`**](https://kommunity.com/pausiber/events/python101)  | &bull; | &bull; | &bull; |
 | **Hafta - 2**<br>**`2 Mart,`<br>`8 Mart`** | Flutter ile Mobil Uygulama Geliştirme<br>**`25.02.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | &bull; | &bull; | &bull; |
 | **Hafta - 3**<br>**`9 Mart,`<br>`15 Mart`** | Flutter ile Mobil Uygulama Geliştirme<br>**`03.03.2020`**<br>**`Salı`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | Python 101<br>**`27.02.2020`**<br>**`Perşembe`**<br>**`MF A Blok K4-36 (Lab 3)`**<br>**`18.00 - 20.00`** | &bull; | NodeJS<br>**`?`**<br>**`Çağatay Çalı`** | &bull; |
