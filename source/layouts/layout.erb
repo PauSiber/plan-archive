@@ -3,9 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Use the title from a page's frontmatter if it has one -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    #<!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || "PaüSiber" %></title>
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
@@ -17,7 +16,7 @@
         <%= link_to("PAUSIBER PLAN", "/") %>
       </h1>
       <nav class="my-2 my-md-0 mr-md-3">
-        <a class="p-2 text-dark" >Son Güncellenme Tarihi: 15 Ocak, 2020</a>
+        <a class="p-2 text-dark">Son Güncellenme Tarihi: <%= "%s" % File.mtime(Dir.glob("source/#{request.path}*")[0]).strftime("%d.%m.%Y") %> </a>
       </nav>
     </div>
 
@@ -27,20 +26,21 @@
       </div>
 
       <footer class="pt-4 my-md-5 pt-md-5 border-top">
-          <div class="row social-media-icons">
-              <a class="text-muted" href="https://www.instagram.com/pausiber/"> <i class="fab fa-instagram"></i> Instagram</a>
-              <a class="text-muted" href="https://twitter.com/SiberPau"> <i class="fab fa-twitter"></i> Twitter</a>
-              <a class="text-muted" href="https://t.me/siberpau"> <i class="fab fa-telegram"></i> Telegram</a>
-              <a class="text-muted" href="mailto:siberpau@gmail.com"> <i class="fas fa-envelope"></i> E-posta</a>
+        <div class="row social-media-icons">
+          <a class="text-muted" href="https://www.instagram.com/pausiber/"> <i class="fab fa-instagram"></i> Instagram</a>
+          <a class="text-muted" href="https://twitter.com/SiberPau"> <i class="fab fa-twitter"></i> Twitter</a>
+          <a class="text-muted" href="https://t.me/siberpau"> <i class="fab fa-telegram"></i> Telegram</a>
+          <a class="text-muted" href="mailto:siberpau@gmail.com"> <i class="fas fa-envelope"></i> E-posta</a>
+        </div>
+        <div class="row text-center copyright">
+          <div class="col-12 col-md ">
+            <img class="mb-2" src="/images/logo.png" alt="" width="24" height="24">
+            <small class="d-block text-muted">PaüSiber Topluluğu</small>
+            <small class="d-block mb-3 text-muted">&copy;2019</small>
           </div>
-          <div class="row text-center copyright">
-            <div class="col-12 col-md ">
-              <img class="mb-2" src="/images/logo.png" alt="" width="24" height="24">
-              <small class="d-block text-muted">PaüSiber Topluluğu</small>
-              <small class="d-block mb-3 text-muted">&copy;2019</small>
-            </div>
         </div>
       </footer>
     </div>
   </body>
+
 </html>
