@@ -1,9 +1,9 @@
 ---
-title: 2020-2021 - Güz Yarıyılı Planı
-date: 2020-08-06
+title: 2021-2022 - Güz Yarıyılı Planı
+date: 2021-10-17
 ---
 
-<h1 align="center">2020-2021 Güz Yarıyılı Planımız</h1>
+<h1 align="center">2021-2022 Güz Yarıyılı Planımız</h1>
 <br>
 
 <hr/>
@@ -37,8 +37,8 @@ Dönem Sonu sınavların yapılması,
 
 | # | Etkinlik | Etkinlik | Etkinlik | Atölye / Konferans | Eğlence |
 |:-:|:--------:|:--------:|:--------:|:------:|:-------:|
-| **Hafta - 0**<br>**`04 Ekim,`<br>`10 Ekim`** | &bull; | &bull; | &bull; | &bull; |**Tanışma**<br>[**`[F1]`**](https://www.instagram.com/p/CUpYKzEIM2s/) [**`[F2]`**](https://www.instagram.com/p/CUvFrwfIWrC/) |
-| **Hafta - 1**<br>**`11 Ekim,`<br>`17 Ekim`** | &bull; | &bull; | &bull; | &bull; | &bull; |
+| **Hafta - 0**<br>**`04 Ekim,`<br>`10 Ekim`** | &bull; | &bull; | &bull; | &bull; | **Tanışma**<br>[**`[F1]`**](https://www.instagram.com/p/CUpYKzEIM2s/) [**`[F2]`**](https://www.instagram.com/p/CUvFrwfIWrC/) |
+| **Hafta - 1**<br>**`11 Ekim,`<br>`17 Ekim`** | &bull; | &bull; | &bull; | &bull; | **Kahvaltı**<br>[**`[F]`**](https://www.instagram.com/p/CVI5N5CIBR7/) |
 | **Hafta - 2**<br>**`18 Ekim,`<br>`24 Ekim`** | Önyüz Programcılığa Giriş<br> | Herkes için GNU/Linux<br> | &bull; | &bull; | &bull; |
 | **Hafta - 3**<br>**`25 Ekim,`<br>`31 Ekim`** | &bull; | &bull; | &bull; | &bull; | &bull; |
 | **Hafta - 4**<br>**`01 Kasım,`<br>`07 Kasım`** | &bull; | &bull; | &bull; | &bull; | &bull; |
