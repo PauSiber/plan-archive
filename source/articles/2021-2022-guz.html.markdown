@@ -13,8 +13,10 @@ date: 2021-10-17
 #### Eğitmenlerimiz
 Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir. Emeklerinden dolayı hepsine teşekkür ederiz.  
 
-Eğitim adı,  
-**`!Eklenecektir!`**,
+Önyüz Programcılığa Giriş  
+**`Ufuk Can Kurt`**, **`Altay Şimşek`**  
+Herkes için GNU/Linux  
+**`Onur Özbay`**, **`Murat Can Tanrıverdi`**
 
 ---
 
