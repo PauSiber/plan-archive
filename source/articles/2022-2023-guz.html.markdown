@@ -16,7 +16,7 @@ Bir seri olarak düzenlediğimiz etkinliklerin eğitmenleri aşağıdaki gibidir
 Önyüz Programcılığa Giriş  
 **`Ufuk Can Kurt`**, **`Altay Şimşek`**  
 Herkes için GNU/Linux  
-**`Onur Özbay`**, **`Murat Can Tanrıverdi`**
+**`Muhammed Emrullah Cirit`**, **`Enes Kaya`**, **`Hazal Gültekin`**, **`Serdar Kış`**
 
 ---
 
